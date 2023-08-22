@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O MyLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://DevBonatto.github.io/MyLinks)
+- [Acesse o projeto finalizado, online](https://DevBonatto.github.io/My-Links)
 
 ## 🔖 Layout
 
